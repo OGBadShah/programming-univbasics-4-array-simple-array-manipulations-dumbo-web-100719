@@ -27,7 +27,7 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array, element)
-  list_of_programming_languages.insert(4, element)
+  array.insert(4, element)
 end
 
 def using_uniq(array)

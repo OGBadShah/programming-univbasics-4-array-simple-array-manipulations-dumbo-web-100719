@@ -1,1 +1,3 @@
-colors_in_the_rainbow.push("violet")
+def using_push(array, string)
+  using_push.push(string)
+end

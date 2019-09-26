@@ -31,7 +31,7 @@ def using_insert(list_of_programming_languages, another_language)
 end
 
 def using_uniq(array)
-  array.uniq  
+  array.uniq
 end
 
 def using_flatten(array)
